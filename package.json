@@ -1,0 +1,24 @@
+{
+  "name": "phpcmstemplate",
+  "version": "1.0.0",
+  "description": "PHPcms模板",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "author": "877675862",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.0.5",
+    "gulp-uglify": "^2.0.0"
+  }
+}
