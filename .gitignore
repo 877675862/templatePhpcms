@@ -85,3 +85,5 @@ $RECYCLE.BIN/
 *.lnk
 # idea
 .idea
+# vs code setting config
+.vscode
