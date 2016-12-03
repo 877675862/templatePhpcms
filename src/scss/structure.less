@@ -1,0 +1,21 @@
+// @import globalVariable.less
+@import 'globalVariable';
+//for grids layout structure
+.gd(@width,@float:@float-default){
+    width: @width;
+    float: @float;
+}
+//for radius
+.radius(@lt,@rt,@rb,@lb){
+    border-radius: @lt @rt @rb @lb;
+}
+.shadows(@h,@v,@b,@c){
+    box-shadow: @h @v @b @c;
+}
+.shadows-inset(@h,@v,@b,@c,@inset){
+    box-shadow: @h @v @b @c @inset;
+}
+.mp{
+    margin: 0 auto;
+    padding: 0;
+}
